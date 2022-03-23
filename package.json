@@ -1,0 +1,20 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.coffee"
+  },
+  "dependencies": {
+    "coffeescript": "^2.6.1",
+    "express": "^4.17.3",
+    "fibrous": "^0.4.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.8",
+    "node-fiber": "^1.0.5",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "pug": "^3.0.2",
+    "request": "^2.88.2"
+  }
+}
